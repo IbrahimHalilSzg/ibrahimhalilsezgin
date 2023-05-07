@@ -6,7 +6,7 @@ Hakkımda
 Yaşım: 16
 Konum: İstanbul, Türkiye
 Teknolojiye Olan İlgim
-Teknolojiye olan ilgim küçük yaşlardan beri var. Bilgisayarlar ve programlama dünyasına olan merakım, beni kod yazmaya ve teknoloji projeleriyle uğraşmaya yönlendirdi. Şu anda genel olarak web geliştirme ve yazılım geliştirmeyle ilgileniyorum. HTML, CSS ve JavaScript gibi temel web teknolojilerine hakimim ve aynı zamanda Python ve Java gibi dillerle de deneyimim var.
+Teknolojiye olan ilgim küçük yaşlardan beri var. Bilgisayarlar ve programlama dünyasına olan merakım, beni kod yazmaya ve teknoloji projeleriyle uğraşmaya yönlendirdi. Şu anda genel olarak web geliştirme ve yazılım geliştirmeyle ilgileniyorum. HTML, CSS ve JavaScript gibi temel web teknolojilerine hakimim ve aynı zamanda Python ve Clang gibi dillerle de deneyimim var.
 
 Öğrenme ve Gelişme
 Sürekli olarak yeni şeyler öğrenmek ve kendimi geliştirmek benim için önemlidir. GitHub, projelerimi paylaşabileceğim ve diğer geliştiricilerle etkileşimde bulunabileceğim harika bir platform sağlıyor. Burada yeni fikirler keşfetmek, geri bildirim almak ve başkalarının projelerinden ilham almak için zaman geçiriyorum.
